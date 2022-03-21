@@ -23,12 +23,16 @@ The web page that was developed allows obtaining information on UFO views with d
 
 The following image corresponds to the main page developed, where a brief introduction is given.
 
+![main_page](https://user-images.githubusercontent.com/96089967/159194261-1ac3bb70-5c87-49d2-aedf-3e13b14c2cbe.png)
 
 
 
 A core point of the development of the page was to be able to generate a filter that would allow us to obtain specific information through the chosen filter.
 
 The following image shows this information
+
+![filter](https://user-images.githubusercontent.com/96089967/159194284-05530373-8840-4d5c-80c1-56cad9f4afef.png)
+
 
 
 ## Summary
